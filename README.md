@@ -1,2 +1,2 @@
 # projects
-For random projects
+This repo contains projects
